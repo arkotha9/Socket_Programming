@@ -1,0 +1,1 @@
+For serverM and client, I have taken the server.c and client.c codes from Beej's tutorials. For UDP socket, I used to code from geeksforgeeks website. I have also used code snippets from linux man pages.
